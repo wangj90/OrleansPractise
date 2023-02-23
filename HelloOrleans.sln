@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloOreans", "HelloOreans\HelloOreans.csproj", "{20EAF3B8-096D-489F-AA9E-876E82DA7D4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetOrleans", "AdoNetOrleans\AdoNetOrleans.csproj", "{AA5900B1-7182-4A99-B50B-3CD64EE6A5CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{20EAF3B8-096D-489F-AA9E-876E82DA7D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20EAF3B8-096D-489F-AA9E-876E82DA7D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20EAF3B8-096D-489F-AA9E-876E82DA7D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5900B1-7182-4A99-B50B-3CD64EE6A5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5900B1-7182-4A99-B50B-3CD64EE6A5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5900B1-7182-4A99-B50B-3CD64EE6A5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5900B1-7182-4A99-B50B-3CD64EE6A5CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
